@@ -1,0 +1,198 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "66e514de-96b5-4ee5-b2f3-4d3e794a8c11")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 147.32 58.42)
+		(size 33.02 29.21)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "098a2703-1591-4528-96a2-f5b70206c3c2")
+		(property "Sheetname" "Control Unit"
+			(at 147.32 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled1.kicad_sch"
+			(at 147.32 88.2146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LineFollowerGOAT"
+				(path "/66e514de-96b5-4ee5-b2f3-4d3e794a8c11"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 110.49)
+		(size 44.45 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0e81ce25-1b4e-4267-b7ee-d758fc889bc1")
+		(property "Sheetname" "Control Unit IC"
+			(at 59.69 109.7784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitledIC.kicad_sch"
+			(at 59.69 142.8246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LineFollowerGOAT"
+				(path "/66e514de-96b5-4ee5-b2f3-4d3e794a8c11"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 52.07 58.42)
+		(size 72.39 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "433f49fd-627e-4939-9a83-5d349c0be470")
+		(property "Sheetname" "Power Unit"
+			(at 52.07 57.7084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 52.07 89.4846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LineFollowerGOAT"
+				(path "/66e514de-96b5-4ee5-b2f3-4d3e794a8c11"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 101.6)
+		(size 33.02 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "99d46a58-04be-4498-bfe5-c3b6be3f5a85")
+		(property "Sheetname" "Sensor Unit"
+			(at 147.32 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled2.kicad_sch"
+			(at 147.32 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LineFollowerGOAT"
+				(path "/66e514de-96b5-4ee5-b2f3-4d3e794a8c11"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
