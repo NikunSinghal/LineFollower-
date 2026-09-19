@@ -1,0 +1,236 @@
+(footprint "Fuse_Bourns_MF-SM_9.5x6.71mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "https://www.bourns.com/docs/Product-Datasheets/mfsm.pdf")
+	(tags "bourns ptc resettable fuse polyfuse MF-SM MF-SMHT")
+	(property "Reference" "F2"
+		(at -0.03 -5.15 270)
+		(layer "F.SilkS")
+		(uuid "c8fe928b-1943-4d48-b581-fd4a6b96c5ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Polyfuse"
+		(at 0 4.500001 0)
+		(layer "F.Fab")
+		(uuid "26de5798-5ff1-4ee9-b539-bff78ea5a852")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a62a0a52-bda2-4d58-add6-04da2670e92e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1dc52219-9b52-4e62-b1d3-4fbde290fe76")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "*polyfuse* *PTC*")
+	(sheetname "/Power Unit/")
+	(sheetfile "Power.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.86 -3.465)
+		(end 4.86 -3.465)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "889bfa44-7c62-4073-a705-2d1f7db1c5ce")
+	)
+	(fp_line
+		(start -4.86 -2.85)
+		(end -4.86 -3.465)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f035293-d93f-44cd-8da8-9a657ee50a76")
+	)
+	(fp_line
+		(start -4.86 2.85)
+		(end -4.86 3.465)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b77c39df-e199-46e4-bac0-26a2b2007aaf")
+	)
+	(fp_line
+		(start -4.86 3.465)
+		(end 4.86 3.465)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b6f4950-dae6-4e17-9c4a-70d0bd2735e4")
+	)
+	(fp_line
+		(start 4.86 -2.85)
+		(end 4.86 -3.465)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "faf7838a-1435-471d-acaf-847abf9807a1")
+	)
+	(fp_line
+		(start 4.86 2.85)
+		(end 4.86 3.465)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "65c8ad6d-2e9e-4ec6-b7cf-cc493792f160")
+	)
+	(fp_line
+		(start -5.599999 -3.61)
+		(end 5.599999 -3.61)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c39ff691-4e93-4d54-b9a7-9359a881ba1d")
+	)
+	(fp_line
+		(start -5.599999 3.61)
+		(end -5.599999 -3.61)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ea4843d9-987d-4047-8f83-29f57980b84e")
+	)
+	(fp_line
+		(start 5.599999 -3.61)
+		(end 5.599999 3.61)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "eb194ce6-c19e-4aff-996d-0f825e5f76c3")
+	)
+	(fp_line
+		(start 5.599999 3.61)
+		(end -5.599999 3.61)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dd26394c-2d9f-49a4-8335-5455e2be4321")
+	)
+	(fp_line
+		(start -4.75 -3.355)
+		(end 4.75 -3.355)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "02635a6e-924a-4ca2-b692-7408ec1f24b2")
+	)
+	(fp_line
+		(start -4.75 3.355)
+		(end -4.75 -3.355)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fe644618-d4c3-4bdb-97ad-30eb7e571922")
+	)
+	(fp_line
+		(start 4.75 -3.355)
+		(end 4.75 3.355)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6c54c13f-c07b-488e-92c4-da32afc995e5")
+	)
+	(fp_line
+		(start 4.75 3.355)
+		(end -4.75 3.355)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "259ae984-0e9d-4ed5-a785-002c7dbafe83")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "74712b78-a1f8-4d8e-b825-73ebbc880954")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -4.199999 0)
+		(size 2.3 4.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "618d3cb8-4b00-4b7a-a57e-21b888ec4c7f")
+	)
+	(pad "2" smd rect
+		(at 4.199999 0)
+		(size 2.3 4.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "78aaa068-9b2e-4c2a-8305-1d930cfe094c")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Fuse.3dshapes/Fuse_Bourns_MF-SM_9.5x6.71mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

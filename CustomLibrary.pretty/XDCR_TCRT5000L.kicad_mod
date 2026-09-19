@@ -1,0 +1,446 @@
+(footprint "XDCR_TCRT5000L"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "U6"
+		(at -1.93211 -3.94956 180)
+		(layer "F.SilkS")
+		(uuid "57100c5c-b305-451a-b4e2-60c1d5097fe5")
+		(effects
+			(font
+				(size 1.003701 1.003701)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TCRT5000L"
+		(at 3.54522 3.92083 180)
+		(layer "F.Fab")
+		(uuid "b7e581f2-c2c5-4170-ad95-c9f70adfc14e")
+		(effects
+			(font
+				(size 1.00148 1.00148)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9db9889b-124b-4327-9da3-13861b5e0ccd")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9fce6514-5514-4aea-a34d-b01ec163a9d6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MF" "Vishay Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6b81315-ab35-4409-b00a-f8f896479741")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PACKAGE" "PCB Mount Vishay"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65dc059f-e9f1-47cf-a879-61bbfa5ca04e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PRICE" "0.60 USD"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9ed444e-62f3-4596-9148-d450dce14d33")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a1639b67-f057-4767-8655-710ab942445f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33bd7997-bbd1-4c45-a129-65bb5c86efea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13333fdf-0b24-449f-9cb0-f6a376ff7c28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c376a96f-82f3-4805-af63-a63c9ac0158d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "TCRT5000L"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34e7b3a7-5d7a-4376-a2b8-a10f55d9ac44")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "abe74017-dd1c-41bf-8a9a-45dfb7361687")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "AVAILABILITY" "Good"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c63efd62-4b8f-40c4-af6b-15a649da7d76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc12b07c-844c-4b10-bc49-afb19007765e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/TCRT5000/")
+	(sheetfile "TCRT_sensors.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -5.1 -2.9)
+		(end -1.3 -2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2eed7c29-4c50-4725-84cb-1b0407b12c9e")
+	)
+	(fp_line
+		(start -5.1 1.7)
+		(end -5.1 -2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3755de2-4b86-4c96-9cdf-bacea5847c41")
+	)
+	(fp_line
+		(start -1.3 2.9)
+		(end -3.7 2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "19551d8e-020d-46a0-a5e3-bc41af9a1e2a")
+	)
+	(fp_line
+		(start 1.4 -2.9)
+		(end 3.4 -2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1e9d852f-45bd-42d1-853f-e12f240cf797")
+	)
+	(fp_line
+		(start 3.4 -2.9)
+		(end 5.1 -1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "505d4044-d204-4881-8f1d-b053514db01a")
+	)
+	(fp_line
+		(start 3.4 2.9)
+		(end 1.4 2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71f7f305-614b-42ec-990a-bda5c40b28d4")
+	)
+	(fp_line
+		(start 5.1 -1.25)
+		(end 5.1 1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1334f46f-cd63-47f9-b0dd-324937d13a98")
+	)
+	(fp_line
+		(start 5.1 1.25)
+		(end 3.4 2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "277f4b95-0529-42a0-96dd-11da4edb3427")
+	)
+	(fp_line
+		(start -5.35 -3.15)
+		(end 5.35 -3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3b74cb53-8505-4103-a0e1-b8dfdc72f6fd")
+	)
+	(fp_line
+		(start -5.35 3.15)
+		(end -5.35 -3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "54af887c-dfa0-40eb-86dc-632d0ccf66a9")
+	)
+	(fp_line
+		(start 5.35 -3.15)
+		(end 5.35 3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8fec15a6-cd71-4de0-8cd8-90e74a782841")
+	)
+	(fp_line
+		(start 5.35 3.15)
+		(end -5.35 3.15)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d40b3f31-26ac-4bfb-8547-a13786323e58")
+	)
+	(fp_line
+		(start -5.1 -2.9)
+		(end 3.4 -2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "03d5470b-52a1-4eac-9ff8-cf3e7409af09")
+	)
+	(fp_line
+		(start -5.1 2.9)
+		(end -5.1 -2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64f7f6c1-b570-4bc5-a914-779cd8d1cf55")
+	)
+	(fp_line
+		(start 3.4 -2.9)
+		(end 5.1 -1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ce8fdeb-8503-4a2d-8e83-3b17078d1b26")
+	)
+	(fp_line
+		(start 3.4 2.9)
+		(end -5.1 2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a4c03f64-0b2a-4201-9e94-421116f15c38")
+	)
+	(fp_line
+		(start 5.1 -1.25)
+		(end 5.1 1.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "735f83e5-2c3d-4858-abd4-dde6a9de765c")
+	)
+	(fp_line
+		(start 5.1 1.25)
+		(end 3.4 2.9)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0ee8752b-896d-4503-bbb6-9e38bf39c422")
+	)
+	(pad "" np_thru_hole circle
+		(at -4.65 2.45)
+		(size 1 1)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "b2063cd4-d973-4f8e-b895-3f8826d65ccc")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 -1.9)
+		(size 2.5 2.5)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "dba0ccb7-524f-4b37-a6f5-73db0ec30352")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 1.9)
+		(size 2.5 2.5)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "4474c9b0-24e4-42a2-8a1f-16f40a10c671")
+	)
+	(pad "1" thru_hole circle
+		(at -2.75 -1.27)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b2206760-4774-4cea-adf5-4802e4fadc1d")
+	)
+	(pad "2" thru_hole circle
+		(at -2.75 1.27)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "d90e2505-3f12-4c75-af0b-cde5dd09d037")
+	)
+	(pad "3" thru_hole circle
+		(at 2.75 1.27)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "d11eb1f4-4bd4-44f3-8327-de85b9224dea")
+	)
+	(pad "4" thru_hole circle
+		(at 2.75 -1.27)
+		(size 1.6 1.6)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b0af7d08-ba1e-434e-ae3e-365594f57bdf")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/toshi/Desktop/Robomanipal/Kicad projects/Line follower/PCB customs/TCRT5000L/TCRT5000L.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

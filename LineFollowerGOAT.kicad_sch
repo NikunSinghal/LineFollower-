@@ -144,6 +144,52 @@
 		)
 	)
 	(sheet
+		(at 125.73 124.46)
+		(size 12.7 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4fd13a53-9116-4ff1-a529-53b649cdbbb6")
+		(property "Sheetname" "Power Unit IC"
+			(at 125.73 123.7484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitledPIC.kicad_sch"
+			(at 125.73 146.6346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LineFollowerGOAT"
+				(path "/66e514de-96b5-4ee5-b2f3-4d3e794a8c11"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 147.32 101.6)
 		(size 33.02 25.4)
 		(exclude_from_sim no)

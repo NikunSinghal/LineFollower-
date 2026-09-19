@@ -1,0 +1,428 @@
+(footprint "QRE1113-SMD"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "U15"
+		(at 1.375 -3.775 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "82de864a-81f2-4575-b412-077774f007f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "QRE1113GR"
+		(at 9.68 3.765 180)
+		(layer "F.Fab")
+		(uuid "1a36a079-0587-48d9-b711-11bb8003ab5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "18a58ee8-2696-4fe8-8dfa-92dca07b4bc7")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "QRE1113 Series 30 V 50 mA Miniature Reflective Object Sensor - SMD-4"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "acffa1bf-2b03-4c4a-a6e7-3d4686ac1f72")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "MF" "ON Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ad9c58d-1f08-4eb3-949b-e725619044bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PACKAGE" "SMD-4 ON Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "123e1115-5682-466b-a773-89e8b9a7ce99")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PRICE" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4130674d-74c0-4775-8819-1b2a63b5e5f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "ARUSM-313-4 ON Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf3ea523-3c3d-4b98-8570-eb55979fb2f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/QRE1113GR/Onsemi/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "694611ee-8123-4b35-a3d3-e90f9d02eaf6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC-7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e60af0ec-e034-4520-8cb9-e9730abc71e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63b728de-64b5-41da-869a-2ae6f9d82e84")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/QRE1113GR/Onsemi/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4dec0de-4702-45fb-9624-1094cde04209")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "QRE1113GR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b05d88c-1427-4e68-93d3-96511449fbf4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b779adb0-7991-48a4-8b1f-11afab84851b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Reflective Optical Sensor 0.039 (1mm) 4-SMD, Gull Wing"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11dae4b1-4957-430b-a550-e908e414933d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72f89a24-c78c-4a97-9793-447faaf40f4c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "AVAILABILITY" "Unavailable"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f921be0e-20f8-4f1d-bca8-6f304c102daf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "ON Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd32c2d4-a885-4a07-af9e-ead4dfaa3a3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/QRE1113/")
+	(sheetfile "untitled.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.8 -1.45)
+		(end -1.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bbaf184e-b894-48b5-a7dc-0b07457e3a1a")
+	)
+	(fp_line
+		(start -1.8 -1.45)
+		(end -1.6 -1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17a256e9-8b16-4189-bc6c-cd4425ba0381")
+	)
+	(fp_line
+		(start -1.8 1.45)
+		(end -1.6 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "666290e5-1acc-42f8-94f7-ae4d802ad0df")
+	)
+	(fp_line
+		(start 1.8 -1.45)
+		(end 1.6 -1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fdb50bfb-b540-4332-920a-85b499c3325b")
+	)
+	(fp_line
+		(start 1.8 -1.45)
+		(end 1.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6d2f857d-4ea4-489e-9532-f5a295a95b5b")
+	)
+	(fp_line
+		(start 1.8 1.45)
+		(end 1.6 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "193ffff3-033c-44df-a3c7-f11173e00594")
+	)
+	(fp_circle
+		(center -1.9 -2.2)
+		(end -1.8 -2.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4540daae-bb94-41e1-8836-a0d39d9f2951")
+	)
+	(fp_line
+		(start -2.05 -3.01)
+		(end 2.05 -3.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f3b17876-4e2b-4b61-be60-e1520c4cfd9f")
+	)
+	(fp_line
+		(start -2.05 3.01)
+		(end -2.05 -3.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f7677371-4c48-4d17-b3ea-96211a50f70b")
+	)
+	(fp_line
+		(start 2.05 -3.01)
+		(end 2.05 3.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f1d33a2b-9e65-4eff-98af-42bb7c94d8d5")
+	)
+	(fp_line
+		(start 2.05 3.01)
+		(end -2.05 3.01)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "597dda3d-75e9-4ddd-9370-3785921c4551")
+	)
+	(fp_line
+		(start -1.8 -1.45)
+		(end -1.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "089f27e9-b848-4606-b74c-dac2327b038d")
+	)
+	(fp_line
+		(start 1.8 -1.45)
+		(end -1.8 -1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1694584c-a85b-4509-84c1-8b165e7af12d")
+	)
+	(fp_line
+		(start 1.8 -1.45)
+		(end 1.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "04091ec2-aa54-499a-b9af-67c0a5b0aeb3")
+	)
+	(fp_line
+		(start 1.8 1.45)
+		(end -1.8 1.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0f619a1-5cd8-4e61-9a6c-2be5d657c02d")
+	)
+	(fp_circle
+		(center -1.9 -2.2)
+		(end -1.8 -2.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "c43fbb68-520e-4394-aa1d-c12089ba1fbf")
+	)
+	(pad "1" smd rect
+		(at -0.9 -1.975)
+		(size 0.69 1.57)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "c7309c1d-f97e-496f-a1c5-2a11b98c32ce")
+	)
+	(pad "2" smd rect
+		(at -0.9 1.975)
+		(size 0.69 1.57)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "7122b106-ae0a-43b9-95c9-eea844d3c5fe")
+	)
+	(pad "3" smd rect
+		(at 0.9 1.975)
+		(size 0.69 1.57)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "759f5c2e-d5b8-4eec-b065-f0ec16109d0a")
+	)
+	(pad "4" smd rect
+		(at 0.9 -1.975)
+		(size 0.69 1.57)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "84494ace-e5d7-426a-97f6-9ec10c461736")
+	)
+	(embedded_fonts no)
+)
