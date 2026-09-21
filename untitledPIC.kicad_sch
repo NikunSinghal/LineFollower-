@@ -4262,7 +4262,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "31.6k"
+		(property "Value" "33.2k"
 			(at 99.06 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4897,7 +4897,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "10k"
 			(at 99.06 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5559,7 +5559,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "130"
 			(at 161.29 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6430,7 +6430,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "4.3k"
+		(property "Value" "51k"
 			(at 54.61 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6838,7 +6838,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "0.1u"
 			(at 87.63 84.074 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7644,7 +7644,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "6.8k"
 			(at 54.61 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)

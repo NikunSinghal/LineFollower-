@@ -6737,7 +6737,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" "47u"
 			(at 184.658 145.288 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8794,7 +8794,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01u"
+		(property "Value" "47u"
 			(at 160.528 145.288 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9824,7 +9824,7 @@
 				)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "130"
 			(at 177.8 113.03 90)
 			(show_name no)
 			(do_not_autoplace no)
